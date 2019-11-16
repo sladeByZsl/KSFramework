@@ -1,4 +1,4 @@
-﻿#region Copyright (c) 2015 KEngine / Kelly <http://github.com/mr-kelly>, All rights reserved.
+#region Copyright (c) 2015 KEngine / Kelly <http://github.com/mr-kelly>, All rights reserved.
 
 // KEngine - Toolset and framework for Unity3D
 // ===================================
@@ -83,7 +83,7 @@ public class Game : KSGame
 
         // 开始加载我们的公告界面！
         //UIModule.Instance.OpenWindow("Billboard");
-
+        UIModule.Instance.OpenWindow("zslPanel");
 
         // 测试Collect函数，立即回收所有资源
         var path = "ui/billboard.prefab";

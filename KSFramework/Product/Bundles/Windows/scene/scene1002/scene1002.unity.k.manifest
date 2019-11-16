@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1306891357
+CRC: 3879776287
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e105e89f5773f1bd35e688ed771f600
+    Hash: 2a1f949a1a89f807d268fcbd0073cc7f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 351774507dfd8f30f9d0c8dcafb5b6d8
+    Hash: c1b3f04a3b3a4852fd70edac0cdbf453
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,9 +27,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
+- Class: 65
   Script: {instanceID: 0}
 - Class: 92
+  Script: {instanceID: 0}
+- Class: 102
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
@@ -37,16 +39,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 124
   Script: {instanceID: 0}
-- Class: 154
-  Script: {instanceID: 0}
-- Class: 156
+- Class: 128
   Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
-- Class: 193
-  Script: {instanceID: 0}
-- Class: 218
-  Script: {instanceID: 0}
 Assets:
-- Assets/BundleResources/Scene/TestScene/TestScene.unity
+- Assets/BundleResources/Scene/Scene1002/Scene1002.unity
 Dependencies: []

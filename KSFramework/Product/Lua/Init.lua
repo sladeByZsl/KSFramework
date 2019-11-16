@@ -47,7 +47,7 @@ BillboardSettings = CS.AppSettings.BillboardSettings
 GameConfigSettings = CS.AppSettings.GameConfigSettings
 ---@type AppSettings.TestSettings
 TestSettings = CS.AppSettings.TestSettings
-
+ZslSettings = CS.AppSettings.ZslSettings
 UIBase = import("UI/UIBase")
 Tools 		= import("Tools")
 import("CSharpBinding")
